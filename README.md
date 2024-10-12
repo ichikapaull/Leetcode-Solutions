@@ -10,13 +10,13 @@ Here, you will find my personal solutions to various LeetCode problems across di
 | Difficulty | Problems Solved |
 |------------|-----------------|
 | 🟢 Easy    | 3               |
-| 🟡 Medium  | 4               |
+| 🟡 Medium  | 6               |
 | 🔴 Hard    | 1               |
 
 
 ## 🛠️ Languages
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, TypeScript, C++
 
 ## 🌱 Why I Do This
 Coding challenges improve problem-solving skills, which are critical for real-world software development. Plus, I find it fun to tackle new challenges and learn new algorithms and techniques.
